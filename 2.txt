@@ -64,7 +64,8 @@
 		"api": "csp_Kuaikan",
 		"searchable": 1,
 		"quickSearch": 1,
-		"filterable": 1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/0906.jar;md5;89a367a21768e46bc528b6ecf735e1b3"
+		"filterable": 1,
+		"jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/0906.jar;md5;89a367a21768e46bc528b6ecf735e1b3"
 	},
 
   {
@@ -325,7 +326,7 @@
 ],
 
 "lives":[
-{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpLzI2MDQ1NjYxNjYvVy5XL3Jhdy9icmFuY2gvbWFzdGVyL3R2LnR4dA=="]}]}],
+{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vMTAyMXdhbmcvQy5DL21haW4vdHYudHh0"]}]}],
 
 	"parses": [
 	
