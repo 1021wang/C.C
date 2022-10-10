@@ -26,7 +26,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://agit.ai/2604566166/json/raw/branch/master/libvio.json"
+            "ext":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/X.X/main/libvio.json"
         },
         	{
 		"key": "csp_xpath_zxzj2",
@@ -36,7 +36,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://agit.ai/2604566166/json/raw/branch/master/zxzj.json"
+		"ext": "https://ghproxy.com/https://raw.githubusercontent.com/1021wang/X.X/main/zxzj.json"
 	},
 	{
 		"key": "csp_77",
@@ -136,7 +136,7 @@
 
 	                                                                                                     
 
-        {"key":"csp_XBiubiubiubiu_555","name":"555","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/2604566166/X.X/raw/branch/master/555.json"},
+        {"key":"csp_XBiubiubiubiu_555","name":"555","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/X.X/main/555.json"},
         
  {
 		"key": "csp_xpath_Gimy",
@@ -179,12 +179,12 @@
 	    
 		{"key" : "天天影视","name" : "天天","type" : 1,"api" : "http://tttv.cf/api.php/provide/vod/","searchable" : 1,"quickSearch" : 1 },  
 		                                      
-	    {"key":"csp_xpath_wnvod","name": "万能","type": 3,"api":"csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable":0,"ext":"https://agit.ai/2604566166/json/raw/branch/master/wanneng.json"},                                                  
-	      {"key":"csp_XPath_bidiys","name":"哔嘀","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/2604566166/json/raw/branch/master/bidi.json"},                                         
-	{"key":"csp_biubiu_奈菲影院","name":"奈菲","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/2604566166/json/raw/branch/master/naifei.json"},
+	    {"key":"csp_xpath_wnvod","name": "万能","type": 3,"api":"csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/X.X/main/wanneng.json"},                                                  
+	      {"key":"csp_XPath_bidiys","name":"哔嘀","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/X.X/main/bidi.json"},                                         
+	{"key":"csp_biubiu_奈菲影院","name":"奈菲","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/X.X/main/naifei.json"},
 	
-	   {"key":"csp_biubiu_人人影视","name":"人人","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/2604566166/json/raw/branch/master/renren.json"},
-                                                   {"key":"csp_xpath_juhuang","name":"剧荒","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/2604566166/json/raw/branch/master/juhuang.json"},               
+	   {"key":"csp_biubiu_人人影视","name":"人人","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/X.X/main/renren.json"},
+                                                   {"key":"csp_xpath_juhuang","name":"剧荒","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/X.X/main/juhuang.json"},               
 	{
             "key": "csp_biubiu_蓝光影院",
             "name": "蓝光",
@@ -206,7 +206,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://agit.ai/2604566166/json/raw/branch/master/%e4%b8%8d%e5%8d%a1%e5%bd%b1%e9%99%a2.json"},
+            "ext":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/X.X/main/buka.json"},
         
 {"key":"csp_xml___量子资源","name":"量子"   ,"type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 
@@ -221,7 +221,7 @@
       "ext": "http://home.jundie.top:81/Cat/MaooXB/骚火电影.json"
     },
        
-{"key":"csp_biubiu_OmoFun动漫","name":"动漫","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/github_73589654/w.w/-/raw/master/OFdm.json?inline=false"},
+{"key":"csp_biubiu_OmoFun动漫","name":"动漫","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/X.X/main/OFDM.json"},
    
         {"key": "csp_xpath_dm84",
       "name": "巴士",
@@ -242,7 +242,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 0,
-		"ext": "https://gitcode.net/github_73589654/w.w/-/raw/master/lumanman.json?inline=false"
+		"ext": "https://ghproxy.com/https://raw.githubusercontent.com/1021wang/X.X/main/lumanman.json"
 	},
 
 	{
@@ -334,6 +334,7 @@
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
 
+{"name":"8090","url":"https://www.8090g.cn/?url="},
 {"name":"M6","type":0,"url": "https://jx.bozrc.com:4433/player/?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "leshi", "LS", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header": {"User-Agent": ""}}},
 
 {"name": "parwix稳定","type": 0,"url": "https://jx.bozrc.com:4433/player/?url="},
