@@ -67,17 +67,17 @@
 		"filterable": 1,
 		"jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/0906.jar;md5;89a367a21768e46bc528b6ecf735e1b3"
 	},
-
-  {
-	"key": "Lezhu_spider",
-	"name": "乐猪🐞",
-	"api": "csp_Lezhu",
-	"type": 3,
-	"filterable": 1,
-	"quickSearch": 1,
-	"searchable": 1,
-	"ext": ""
-},  {
+     {
+      "key": "csp_Bd",
+      "name": "哔嘀🐞",
+      "type": 3,
+      "api": "csp_Bdys01",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/999.jar;md5;89a367a21768e46bc528b6ecf735e1b3"
+    },
+    {
 		"key": "csp_DiDuan",
 		"name": "低端🐞",
 		"type": 3,
@@ -86,7 +86,27 @@
 		"quickSearch": 1,
 		"filterable": 1
 	},
-
+    {
+	"key": "Lezhu_spider",
+	"name": "乐猪🐞",
+	"api": "csp_Lezhu",
+	"type": 3,
+	"filterable": 1,
+	"quickSearch": 1,
+	"searchable": 1,
+	"ext": ""
+},
+{
+      "key": "csp_Auete",
+      "name": "Auete🐞",
+      "type": 3,
+      "api": "csp_Auete",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+		"jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/999.jar;md5;89a367a21768e46bc528b6ecf735e1b3"
+    },   
+    
 	{"key":"csp_Bttoo","name":"LGBT🐞","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 	
 	{
@@ -112,6 +132,16 @@
 		"jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/1001.jar;md5;89a367a21768e46bc528b6ecf735e1b3"
 	},
 	
+	{
+		"key": "360_spider",
+		"name": "360🐞",
+		"api": "csp_SP360",
+		"type": 3,
+		"filterable": 1,
+		"quickSearch": 1,
+		"searchable": 1,
+		"ext": ""
+	},
 	  {
 		"key": "csp_LibVio",
 		"name": "LIBVIO",
@@ -126,8 +156,8 @@
 	      
 	              
 	                       
-	                          
-                                                                                                                                                                                              
+	                       
+                                                                                                                                 
 	                                                                     
 
 
@@ -137,7 +167,17 @@
 	                                                                                                     
 
         {"key":"csp_XBiubiubiubiu_555","name":"555","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/X.X/main/555.json"},
-        
+                                                            {
+		"key": "csp_xpath_348z",
+		"name": "348",
+		"type": 3,
+		"api": "csp_XPathFilter",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/348z.json"
+	},    
+	 
  {
 		"key": "csp_xpath_Gimy",
 		"name": "GIMY",
@@ -311,8 +351,19 @@
 		"quickSearch": 1,
 		"filterable": 0,
 		"ext": "http://home.jundie.top:81/Cat/MaooXB/厂长资源-蓝光.json"
-	},     
-	  
+	},  
+	   
+	  {
+      "key": "csp_biubiu_voflix",
+      "name": "voflix",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "clan://网站/voflix.json"
+    },  
+     
  {"key":"csp_xml___卧龙资源","name":"卧龙"   ,"type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},      
  
 {"key":"csp_xpath_lezhutv","name":"乐猪","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://home.jundie.top:81/Cat/MaooXB/乐猪影视.json"} 
