@@ -297,8 +297,26 @@
 		"api":"http://cms.nokia.press/vod?rule=喵喵",
 		"searchable":1,
 		"quickSearch":1,
-		"filterable":1}, 
-		
+		"filterable":1},
+		      
+  {"key":"csp_XBiubiubiubiu_ysgc",
+        "name":"工厂",
+        "type":3,
+        "api":"csp_XBiubiu",
+        "searchable":1,
+        "quickSearch":1,
+        "filterable":0,
+        "ext":"http://home.jundie.top:81/Cat/MaooXB/影视工厂.json"},
+        
+ {"key":"csp_xpath_工人",
+       "name":"工人",
+       "type":3,
+       "api":"csp_XPathMacFilter",
+       "searchable":1,
+       "quickSearch":1,
+       "filterable":1,
+       "ext":"http://home.jundie.top:81/Cat/MaooXP/xiangdao.json"},
+       
 {
 		"key": "csp_biubiu_瓜皮TV",
 		"name": "瓜皮",
@@ -341,8 +359,7 @@
 	      "searchable":1,
 	      "quickSearch":1,
 	      "filterable":1,
-	      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/X.X/main/bidi.json"},                    
-	                           
+	      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/X.X/main/bidi.json"},                    	                           
 	{"key":"csp_biubiu_奈菲影院",
 	"name":"奈菲",
 	"type":3,
@@ -380,15 +397,6 @@
             "ext": "http://home.jundie.top:81/Cat/MaooXB/蓝光影院.json"
         },
         
-        {"key":"csp_XBiubiubiubiu_ysgc",
-        "name":"工厂",
-        "type":3,
-        "api":"csp_XBiubiu",
-        "searchable":1,
-        "quickSearch":1,
-        "filterable":0,
-        "ext":"http://home.jundie.top:81/Cat/MaooXB/影视工厂.json"},
-
 	{
             "key":"csp_biubiu_真不卡cerrd",
             "name": "不卡",
@@ -435,16 +443,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://home.jundie.top:81/Cat/MaooXP/dm84.json"},
-      
-      {"key":"csp_xpath_樱花",
-      "name":"樱花",
-      "type":3,
-      "api":"csp_XPath",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":0,
-      "ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/yinghua2.json"},
-          				
+                				
 {
 		"key": "csp_xpath_17skr",
 		"name": "路漫漫",
@@ -476,15 +475,6 @@
       "filterable":0,
       "ext":"http://home.jundie.top:81/Cat/MaooXB/六度TV.json"}, 
        	
-       {"key":"csp_xpath_工人",
-       "name":"工人",
-       "type":3,
-       "api":"csp_XPathMacFilter",
-       "searchable":1,
-       "quickSearch":1,
-       "filterable":1,
-       "ext":"http://home.jundie.top:81/Cat/MaooXP/xiangdao.json"},
-
        {"key":"csp_biubiu_大米星球",
        "name":"大米",
        "type":3,
@@ -503,18 +493,7 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/干饭影视.json"
-	},                     	                                                                      
-     {
-		"key": "csp_xpath_cokemv",
-		"name": "可乐",
-		"type": 3,
-		"api": "csp_XPathFilter",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/cokemv.json"
-	},                                    
-	         
+	},                     	                                                           
       {"key":"csp_XBiubiubiubiu_手机看剧",
       "name":"手机",
       "type":3,
@@ -542,15 +521,6 @@
         "filterable":0,
         "ext":"http://home.jundie.top:81/Cat/MaooXB/特狗影视.json"},
 
-        {"key":"csp_biubiu_4K电影网",
-        "name":"4K网",
-        "type":3,
-        "api":"csp_XBiubiu",
-        "searchable":1,
-        "quickSearch":1,
-        "filterable":0,
-        "ext":"http://home.jundie.top:81/Cat/MaooXB/4K电影网.json"},
-
 {
 		"key": "csp_xpath_meiju56",
 		"name": "美剧",
@@ -561,18 +531,7 @@
 		"filterable": 1,
 		"ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/meiju562.json"
 	}, 	
-				
-	       {
-		"key": "csp_xpath_czspp",
-		"name": "厂长",
-		"type": 3,
-		"api": "csp_Czsapp",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "http://home.jundie.top:81/Cat/MaooXB/厂长资源-蓝光.json"
-	},  
-	   
+					
 	  {
       "key": "csp_biubiu_voflix",
       "name": "voflix",
