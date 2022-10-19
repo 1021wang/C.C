@@ -96,6 +96,28 @@
 		"filterable": 1,
 		"jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/0906.jar;md5;89a367a21768e46bc528b6ecf735e1b3"
 	},
+	
+	{
+	     "key": "IKan",
+	     "name": "爱看🐞",
+	     "type":3,
+	     "api": "csp_IKan",
+	     "searchable": 1,
+	     "quickSearch": 1,
+	     "filterable": 1,
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/ZL.jar;md5;89a367a21768e46bc528b6ecf735e1b3"
+	         },
+	{
+	     "key": "Smdyy",
+	     "name": "神马🐞",
+	     "type":3,
+	     "api": "csp_Smdyy",
+	     "searchable": 1,
+	     "quickSearch": 1,
+	     "filterable": 1,
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/ZL.jar;md5;89a367a21768e46bc528b6ecf735e1b3"
+	     },	
+	     
      {
       "key": "csp_Bd",
       "name": "哔嘀🐞",
@@ -121,7 +143,8 @@
       "api": "csp_Czsapp",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 0,
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/ZL.jar;md5;89a367a21768e46bc528b6ecf735e1b3"
     },
     {
 	"key": "Lezhu_spider",
@@ -133,6 +156,10 @@
 	"searchable": 1,
 	"ext": ""
 },
+
+{"key": "Gitcafe","name": "纸条🐞","type":3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/ZL.jar;md5;89a367a21768e46bc528b6ecf735e1b3"},
+
 {
       "key": "csp_Auete",
       "name": "Auete🐞",
@@ -173,9 +200,10 @@
 		"searchable": 1,
 		"ext": ""
 	},
+		  
 	  {
 		"key": "csp_LibVio",
-		"name": "LIBVIO",
+		"name": "LIBVIO🐞",
 		"type": 3,
 		"api": "csp_Lib",
 		"filterable": 1,
@@ -184,7 +212,7 @@
 	},			    
 	
 	  {"key":"Anfuns",
-	  "name":"Anfuns",
+	  "name":"Anfuns🐞",
 	  "type":3,
 	  "api":"csp_Anfuns",
 	  "searchable":1,
