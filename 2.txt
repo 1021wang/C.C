@@ -62,7 +62,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-	    "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/cs.jar;md5;89a367a21768e46bc528b6ecf735e1b3"
+	    "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/cs.jar"
         },  
     	{
             "key":"csp_biubiu_LIBVIO",
@@ -82,7 +82,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/O.jar;md5;89a367a21768e46bc528b6ecf735e1b3"
+		"jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/O.jar"
 	},
         	
 
@@ -104,7 +104,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/0906.jar;md5;89a367a21768e46bc528b6ecf735e1b3"
+		"jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/0906.jar"
 	},
 	
 	{
@@ -115,7 +115,7 @@
 	     "searchable": 1,
 	     "quickSearch": 1,
 	     "filterable": 1,
-      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/ZL.jar;md5;89a367a21768e46bc528b6ecf735e1b3"
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/ZL.jar"
 	         },
 	{
 	     "key": "Smdyy",
@@ -125,7 +125,7 @@
 	     "searchable": 1,
 	     "quickSearch": 1,
 	     "filterable": 1,
-      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/ZL.jar;md5;89a367a21768e46bc528b6ecf735e1b3"
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/ZL.jar"
 	     },	
 	     {
             "key": "AppTT",
@@ -144,7 +144,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/999.jar;md5;89a367a21768e46bc528b6ecf735e1b3"
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/999.jar"
     },
     {
 		"key": "csp_DiDuan",
@@ -162,7 +162,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/ZL.jar;md5;89a367a21768e46bc528b6ecf735e1b3"
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/ZL.jar"
     },
     {
 	"key": "Lezhu_spider",
@@ -182,18 +182,8 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/ZL.jar;md5;89a367a21768e46bc528b6ecf735e1b3"},
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/ZL.jar"},
     
-    {
-		"key": "csp_Cokemv",
-		"name": "Cokemv🐞",
-		"type": 3,
-		"api": "csp_Cokemv",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/TJ.jar;md5;89a367a21768e46bc528b6ecf735e1b3"
-	}, 
 {
       "key": "csp_Auete",
       "name": "Auete🐞",
@@ -202,7 +192,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-		"jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/999.jar;md5;89a367a21768e46bc528b6ecf735e1b3"
+		"jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/999.jar"
     },   
     
 	{"key":"csp_Bttoo",
@@ -221,7 +211,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/gg0925.jar;md5;89a367a21768e46bc528b6ecf735e1b3"
+		"jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/gg0925.jar"
 	}, 
 		
 	{
@@ -252,7 +242,7 @@
 	  "searchable":1,
 	  "quickSearch":1,
 	  "filterable":1,
-	  "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/1007.jar;md5;89a367a21768e46bc528b6ecf735e1b3"},    	               
+	  "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/1007.jar"},    	               
 	      
 	              
 	                       
