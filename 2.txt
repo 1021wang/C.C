@@ -84,8 +84,7 @@
 		"filterable": 1,
 		"jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/O.jar"
 	},
-        	
-
+     
 {
 		"key": "小苹果",
 		"name": "苹果🐞",
@@ -93,9 +92,10 @@
 		"api": "csp_LiteApple",
 		"searchable": 1,
 		"quickSearch": 1,
-		"filterable": 1
-	}, 
-
+		"filterable": 1,
+	    "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/TJ.jar"
+	},
+	
   {
 		"key": "快看影视",
 		"name": "快看🐞",
@@ -117,6 +117,7 @@
 	     "filterable": 1,
       "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/ZL.jar"
 	         },
+	         
 	{
 	     "key": "Smdyy",
 	     "name": "神马🐞",
@@ -127,6 +128,7 @@
 	     "filterable": 1,
       "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/ZL.jar"
 	     },	
+	     
 	     {
             "key": "AppTT",
             "name": "图图🐞",
@@ -136,6 +138,7 @@
             "quickSearch": 1,
             "filterable": 1
         }, 
+        
      {
       "key": "csp_Bd",
       "name": "哔嘀🐞",
@@ -154,7 +157,9 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1
-	},{
+	},
+	
+	{
       "key": "csp_厂长",
       "name": "厂长🐞",
       "type": 3,
@@ -164,6 +169,7 @@
       "filterable": 0,
       "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/ZL.jar"
     },
+    
     {
 	"key": "Lezhu_spider",
 	"name": "乐猪🐞",
@@ -223,6 +229,17 @@
 		"quickSearch": 1,
 		"searchable": 1,
 		"ext": ""
+	},
+	
+	{
+		"key": "csp_Cokemv",
+		"name": "Cokemv🐞",
+		"type": 3,
+		"api": "csp_Cokemv",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+	    "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/TJ.jar"
 	},
 		  
 	  {
