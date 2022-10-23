@@ -1,6 +1,6 @@
 
 {
-"spider":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/1001.jar;md5;89a367a21768e46bc528b6ecf735e1b3",
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/Gx.jar;md5;89a367a21768e46bc528b6ecf735e1b3",
 
 "wallpaper":"http://刚刚.live/图",
 
@@ -36,14 +36,14 @@
 
 "sites":[
 	{
-		"key": "csp_77",
-		"name": "七七🐞",
-		"type": 3,
-		"api": "csp_Kunyu77",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1
-	}, 
+      "key": "csp_厂长",
+      "name": "厂长🐞",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
 {
 		"key": "csp_BBB",
 		"name": "哔哩🅱️",
@@ -65,15 +65,14 @@
 	    "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/cs.jar"
         },  
     	{
-            "key":"csp_biubiu_LIBVIO",
-            "name": "libvio🐞",
-            "type":3,
-            "api":"csp_XPathFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/X.X/main/libvio.json"
-        },
+		"key": "csp_LibVio",
+		"name": "libvio🐞",
+		"type": 3,
+		"api": "csp_Lib",
+		"filterable": 1,
+		"quickSearch": 1,
+		"searchable": 1
+	},	
        {
 		"key": "在线之家",
 		"name": "在线🐞",
@@ -81,10 +80,17 @@
 		"api": "csp_Zxzj",
 		"searchable": 1,
 		"quickSearch": 1,
-		"filterable": 1,
-		"jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/O.jar"
+		"filterable": 1
 	},
-     
+     {
+		"key": "csp_77",
+		"name": "七七🐞",
+		"type": 3,
+		"api": "csp_Kunyu77",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1
+	}, 
 {
 		"key": "小苹果",
 		"name": "苹果🐞",
@@ -92,8 +98,7 @@
 		"api": "csp_LiteApple",
 		"searchable": 1,
 		"quickSearch": 1,
-		"filterable": 1,
-	    "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/TJ.jar"
+		"filterable": 1
 	},
 	
   {
@@ -103,8 +108,7 @@
 		"api": "csp_Kuaikan",
 		"searchable": 1,
 		"quickSearch": 1,
-		"filterable": 1,
-		"jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/0906.jar"
+		"filterable": 1
 	},
 	
 	{
@@ -114,8 +118,7 @@
 	     "api": "csp_IKan",
 	     "searchable": 1,
 	     "quickSearch": 1,
-	     "filterable": 1,
-      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/ZL.jar"
+	     "filterable": 1
 	         },
 	         
 	{
@@ -125,20 +128,29 @@
 	     "api": "csp_Smdyy",
 	     "searchable": 1,
 	     "quickSearch": 1,
-	     "filterable": 1,
-      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/ZL.jar"
+	     "filterable": 1
 	     },	
-	     
-	     {
-            "key": "AppTT",
-            "name": "图图🐞",
-            "type": 3,
-            "api": "csp_AppTT",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        }, 
-        
+	       	{
+		"key": "360_spider",
+		"name": "360🐞",
+		"api": "csp_SP360",
+		"type": 3,
+		"filterable": 1,
+		"quickSearch": 1,
+		"searchable": 1,
+		"ext": ""
+	},
+	
+	{
+		"key": "csp_Cokemv",
+		"name": "Coke🐞",
+		"type": 3,
+		"api": "csp_Cokemv",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1
+	},
+		  
      {
       "key": "csp_Bd",
       "name": "哔嘀🐞",
@@ -156,20 +168,10 @@
 		"api": "csp_Ddrk",
 		"searchable": 1,
 		"quickSearch": 1,
-		"filterable": 1
+		"filterable": 1,
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/999.jar"
 	},
-	
-	{
-      "key": "csp_厂长",
-      "name": "厂长🐞",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/ZL.jar"
-    },
-    
+	  
     {
 	"key": "Lezhu_spider",
 	"name": "乐猪🐞",
@@ -178,7 +180,8 @@
 	"filterable": 1,
 	"quickSearch": 1,
 	"searchable": 1,
-	"ext": ""
+	"ext": "",
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/999.jar"
 },
 
     {"key": "Gitcafe",
@@ -207,7 +210,9 @@
 	"api":"csp_Bttoo",
 	"searchable":1,
 	"quickSearch":1,
-	"filterable":1},
+	"filterable":1,
+		"jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/1001.jar"
+		},
 	
 	{
 		"key": "3EDY",
@@ -219,39 +224,7 @@
 		"filterable": 1,
 		"jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/gg0925.jar"
 	}, 
-		
-	{
-		"key": "360_spider",
-		"name": "360🐞",
-		"api": "csp_SP360",
-		"type": 3,
-		"filterable": 1,
-		"quickSearch": 1,
-		"searchable": 1,
-		"ext": ""
-	},
-	
-	{
-		"key": "csp_Cokemv",
-		"name": "Cokemv🐞",
-		"type": 3,
-		"api": "csp_Cokemv",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-	    "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/TJ.jar"
-	},
-		  
-	  {
-		"key": "csp_LibVio",
-		"name": "LIBVIO🐞",
-		"type": 3,
-		"api": "csp_Lib",
-		"filterable": 1,
-		"quickSearch": 1,
-		"searchable": 1
-	},			    
-	
+	  		    	
 	  {"key":"Anfuns",
 	  "name":"Anfuns🐞",
 	  "type":3,
@@ -271,7 +244,25 @@
 
 
 
-	                                                                                                     
+	     {
+            "key":"csp_biubiu_LIBVIO",
+            "name": "LIBVIO",
+            "type":3,
+            "api":"csp_XPathFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/X.X/main/libvio.json"
+        },                                                    {
+		"key": "csp_xpath_zxzj2",
+		"name": "在线",
+		"type": 3,
+		"api": "csp_XBiubiu",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://ghproxy.com/https://raw.githubusercontent.com/1021wang/X.X/main/zxzj.json"
+	},                                            
 
         {"key":"csp_XBiubiubiubiu_555",
         "name":"555",
@@ -322,16 +313,7 @@
 		"filterable": 1,
 		"ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/bttwoo.json"
 	},    
-	{
-		"key": "csp_xpath_zxzj2",
-		"name": "在线",
-		"type": 3,
-		"api": "csp_XBiubiu",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://ghproxy.com/https://raw.githubusercontent.com/1021wang/X.X/main/zxzj.json"
-	},
+	
 		{"key":"dr_喵喵",
 		"name":"喵喵",
 		"type": 1,
