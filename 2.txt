@@ -82,7 +82,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-	    "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/cs.jar"
+	    "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/Sq.jar"
         },  
     	{
 		"key": "csp_LibVio",
