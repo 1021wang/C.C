@@ -234,6 +234,28 @@
 	},
 	
 	{
+		"key": "Pang",
+		"name": "胖虎🐞",
+		"type": 3,
+		"api": "csp_Dora",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+	  "ext":"c41fdb671b20925c76fa9b6ff8bad027",
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/cs.jar"
+	},
+	
+  {
+	"key": "Yanet",
+	"name": "奈飞🐞",
+	"api": "csp_Dora",
+	"type": 3,
+	"filterable": 1,
+	"quickSearch": 1,
+	"searchable": 1,"ext":"a369b1f623fe86605f1b029f0cf66349",
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/cs.jar"
+}, 
+	{
 		"key": "Lgyy",
 		"name": "蓝光🐞",
 		"type": 3,
@@ -688,7 +710,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/top97.jar"
+       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/top98.jar"
     },
     {
       "key": "SPQQ",
@@ -698,7 +720,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/top97.jar"
+       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/top98.jar"
     },
     {
       "key": "SPIQY",
@@ -708,7 +730,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/top97.jar"
+       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/top98.jar"
     },
 
     {
@@ -720,7 +742,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": " https://www.libvio.me/type/{cateId}-{catePg}.html",
-       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/top97.jar"
+       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/top98.jar"
     },
 
     {
@@ -732,7 +754,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html",
-       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/top97.jar"
+       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/top98.jar"
     },
     {
       "key": "csp_xb_jpys",
@@ -743,7 +765,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://www.jpys.me/vodshow/{cateId}--------{catePg}---.html",
-       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/top97.jar"
+       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/top98.jar"
     },
     
     {
@@ -755,7 +777,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://www.lezhutv.com/type/{cateId}-{datePg}.html",
-       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/top97.jar"
+       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/top98.jar"
     },
      
     {
@@ -767,7 +789,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://cokemv.me/vodshow/{cateId}--------{catePg}---.html",
-       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/top97.jar"
+       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/top98.jar"
     },
     {
         "key": "csp_XBiu_REPEN",
@@ -778,7 +800,7 @@
         "quickSearch": 1,
         "filterable": 1,
         "ext": "https://mac.rp123.top/vodshow/{cateId}--------{catePg}---/",
-       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/top97.jar"
+       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/top98.jar"
     },
     {
       "key": "drpy_js_360影视",
@@ -786,7 +808,7 @@
       "type": 3,
       "api": "http://home.jundie.top:666/JS/dr_py/libs/drpy.js",
       "ext": "http://home.jundie.top:666/JS/dr_py/js/360影视.js",
-       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/top97.jar"
+       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/top98.jar"
     },
 
     {
@@ -798,7 +820,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://ikan6.vip/vodshow/{cateId}--------{catePg}---/",
-       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/top97.jar"
+       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/top98.jar"
     },
     {
       "key": "csp_xBPQ_花猫",
@@ -809,7 +831,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "副标题$class=\"pic-text\">&&</span>#线路数组$/span><h3 class=\"title&&/h3>#搜索后缀$/detail/#播放数组$class=\"stui-content__playlist&&</div>#分类url$http://www.huamaotv.com/type/{cateId}-{catePg}.html",
-       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/top97.jar"
+       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/top98.jar"
     },
     
     {
@@ -821,7 +843,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "{\"免嗅\":\"0\",\"副标题\":\"<p class=\\\"tc_wz\\\">&&</p>\",\"线路二次截取\":\"con_c2_title swiper-wrapper&&</ul>\",\"线路数组\":\"<a href=\\\"javascript:void(0);\\\"&&/a>\",\"播放数组\":\"class=\\\"con_c2_list\\\">&&</ul>\",\"搜索后缀\":\"/v/\",\"分类url\":\"https://www.fantuantva.com/s/{cateId}/area/{area}/by/{by}/letter/{letter}/page/{catePg}/year/{year}.html\",\"年份\":\"2000-2022\",\"筛选\":\"1\"}",
-       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/top97.jar"
+       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/top98.jar"
     },
     {
       "key": "csp_xBPQ_98影院",
@@ -832,7 +854,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "{\"免嗅\":\"0\",\"副标题\":\"right\\\">&&</span>\",\"播放标题\":\">&&</a>\",\"播放数组\":\"<ul class=\\\"stui-content__playlist&&</ul>\",\"线路数组\": \"<img src=&&/h3>\",\"线路标题\": \">&&<\",\"分类url\":\"http://www.98ju.com/{cateId}/index{catePg}.html[http://www.98ju.com/{cateId}/index.html]\",\"分类\":\"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman\",\"类型\":\"dianyingpian--动作片$dongzuopian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#喜剧片$xijupian#纪录片$jilupian#剧情片$juqingpian||dianshiju--国产剧$guochanju#港台剧$gangtaiju#日韩剧$rihanju#欧美剧$oumeiju]\",\"地区\":\"0\",\"剧情\":\"0\",\"年份\":\"0\",\"排序\":\"0\",\"筛选\":\"1\"}",
-       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/top97.jar"
+       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/top98.jar"
     },
   
     {
@@ -844,7 +866,7 @@
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 1,
-       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/top97.jar"
+       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/top98.jar"
     },
     {
       "key": "upyunsou",
@@ -855,7 +877,7 @@
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 0,
-       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/top97.jar"
+       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/top98.jar"
     },
     {
       "key": "yisou",
@@ -866,7 +888,7 @@
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 0,
-       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/top97.jar"
+       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/top98.jar"
     },
     {
       "key": "AliPS",
@@ -877,7 +899,7 @@
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 1,
-       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/top97.jar"
+       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/top98.jar"
     },
     {
       "key": "push_agent",
@@ -889,7 +911,7 @@
       "playerType": 1,
       "filterable": 1,
       "ext": "",
-       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/top97.jar"
+       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/top98.jar"
     }
 
 
