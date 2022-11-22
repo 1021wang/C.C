@@ -138,7 +138,7 @@
 		"searchable": 1,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "clan://网站/哔哩.json",
+		"ext": "https://ghproxy.com/https://raw.githubusercontent.com/1021wang/X.X/main/bili.json",
 	    "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/bili.jar"
 	}, 
     	{   

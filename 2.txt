@@ -138,7 +138,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "http://刚刚.live/jar2/tvjs/bili.json",
+		"ext": "https://ghproxy.com/https://raw.githubusercontent.com/1021wang/X.X/main/bili.json",
 	    "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/bili.jar"
 	}, 
 	{   
@@ -380,7 +380,7 @@
       "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/cs.jar"
 	},
 	
-    "key":"Dy555",
+  {  "key":"Dy555",
     "name":"555🐞",
     "type":"3",
     "api":"csp_Dora",
@@ -399,7 +399,7 @@
 	  "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/1007.jar"},    	               
 	      
 
-	   {             
+	               
          
 
                         
@@ -410,16 +410,7 @@
 
 
 
-	     {
-            "key":"csp_biubiu_LIBVIO",
-            "name": "LIBVIO",
-            "type":3,
-            "api":"csp_XPathFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/X.X/main/libvio.json"
-        },                                                    {
+	                                                      {
 		"key": "csp_xpath_zxzj2",
 		"name": "在线",
 		"type": 3,
