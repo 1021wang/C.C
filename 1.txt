@@ -116,7 +116,7 @@
 ],
 
 "lives":[
-{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL3R2LnR4dA=="]}]}],
+{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vMTAyMXdhbmcvQy5DL21haW4vdHYudHh0"]}]}],
 
 "sites":[
 
