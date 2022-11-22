@@ -151,6 +151,16 @@
             "filterable": 1,
 	    "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/Sq.jar"
         }, 
+        	
+        {"key":"Tbook",
+    "name":"听书网📜",
+    "type":"3",
+    "api":"csp_Dora",
+    "searchable":"1",
+    "quickSearch":"1",
+    "filterable":"1",
+ "ext":"d16d1517e9eaad9909cb35c55ba0b784"    },
+    	
         	{
 	     "key": "Smdyy",
 	     "name": "神马🐞",
