@@ -124,10 +124,11 @@
       "key": "csp_厂长",
       "name": "厂长🐞",
       "type": 3,
-      "api": "csp_Czsapp",
+      "api": "csp_Dora",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,"ext":"8ee655f702d0d21f3643504783babbc3"
+      "filterable": 1,"ext":"8ee655f702d0d21f3643504783babbc3",
+	    "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/cs.jar"
     },
 {
 		"key": "csp_BBB",
@@ -161,6 +162,16 @@
       "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/cs.jar"
 	     },	
 	     
+{   "key":"Lib",
+    "name":"libvio🐞",
+    "type":"3",
+    "api":"csp_Dora",
+    "searchable":"1",
+    "quickSearch":"1",
+    "filterable":"1",
+    "ext":"78d057e4d03e47cb62dce13d69b41d6f",
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/cs.jar"},
+      
        {
 		"key": "在线之家",
 		"name": "在线🐞",
@@ -211,6 +222,16 @@
 	     "filterable": 1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50",
       "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/cs.jar"}, 
       
+      {"key":"Tian",
+    "name":"天天🐞",
+    "type":"3",
+    "api":"csp_Dora",
+    "searchable":"1",
+    "quickSearch":"1",
+    "filterable":"1",
+    "ext":"bdc1c75081e5e477189a463baa47e392",
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/cs.jar"},
+      
       {
 		"key": "AppTT",
 		"name": "图图🐞",
@@ -222,6 +243,16 @@
       "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/cs.jar"
 	},
 	
+	{"key":"Dm84",
+    "name":"动漫🐞",
+    "type":"3",
+    "api":"csp_Dora",
+    "searchable":"1",
+    "quickSearch":"1",
+    "filterable":"1",
+    "ext":"572192a9fe2136041a58e7219a46fb2b",
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/cs.jar"},   
+      
 	{
 		"key": "Zjdr",
 		"name": "追剧🐞",
@@ -265,7 +296,17 @@
 		"filterable": 1,"ext":"b2e573ff040fcd54b50475660ee1a7d1",
       "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/cs.jar"
 	},
-	  
+	
+	  {"key":"Hei",
+    "name":"石榴🐞",
+    "type":"3",
+    "api":"csp_Dora",
+    "searchable":"1",
+    "quickSearch":"1",
+    "filterable":"1",
+    "ext":"3bff500c8b1e06c052a1b0f1f7a62b45",
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/cs.jar"},	  
+      
 	  {
 		"key": "csp_DiDuan",
 		"name": "低端🐞",
@@ -327,7 +368,27 @@
 		"filterable": 1,
 		"jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/gg0925.jar"
 	}, 
-	  		    	
+	
+	  	{
+		"key": "360_spider",
+		"name": "360🐞",
+		"api": "csp_Dora",
+		"type": 3,
+		"filterable": 1,
+		"quickSearch": 1,
+		"searchable": 1,"ext":"9248c57eb22ace4a3431fbd1a979465f",
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/cs.jar"
+	},
+	
+    "key":"Dy555",
+    "name":"555🐞",
+    "type":"3",
+    "api":"csp_Dora",
+    "searchable":"1",
+    "quickSearch":"1",
+    "filterable":"1",
+    "ext":"f41992bd740145ed58cb212dc0876582",
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/cs.jar"}, 	    	
 	  {"key":"Anfuns",
 	  "name":"Anfuns🐞",
 	  "type":3,
@@ -338,7 +399,10 @@
 	  "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/1007.jar"},    	               
 	      
 
-	                       
+	   {             
+         
+
+                        
                                                                                                                                  
 	                                                                     
 
