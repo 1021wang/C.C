@@ -119,17 +119,16 @@
 {"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vMTAyMXdhbmcvQy5DL21haW4vdHYudHh0"]}]}],
 
 "sites":[
-
-{
-      "key": "csp_厂长",
-      "name": "厂长🐞",
-      "type": 3,
-      "api": "csp_Dora",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,"ext":"8ee655f702d0d21f3643504783babbc3"
-    },
-
+	  
+{   "key":"Lib",
+    "name":"libvio🐞",
+    "type":"3",
+    "api":"csp_Dora",
+    "searchable":"1",
+    "quickSearch":"1",
+    "filterable":"1",
+    "ext":"78d057e4d03e47cb62dce13d69b41d6f"},
+    
 {
 		"key": "csp_BBB",
 		"name": "哔哩🅱️",
@@ -170,16 +169,7 @@
 	     "quickSearch": 1,
 	     "filterable": 1,"ext":"16705ee9f4764be8499806f52d4bf1e7"
 	     },	
-	  
-{   "key":"Lib",
-    "name":"libvio🐞",
-    "type":"3",
-    "api":"csp_Dora",
-    "searchable":"1",
-    "quickSearch":"1",
-    "filterable":"1",
-    "ext":"78d057e4d03e47cb62dce13d69b41d6f"},
-    
+
         {
 		"key": "在线之家",
 		"name": "在线🐞",
@@ -331,8 +321,7 @@
 		"api": "csp_Dora",
 		"searchable": 1,
 		"quickSearch": 1,
-		"filterable": 1,
-      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/999.jar","ext":"1cc92323700909e7d46623bc85b958d6"
+		"filterable": 1,      "ext":"1cc92323700909e7d46623bc85b958d6"
 	},
     
     {"key": "Gitcafe",
@@ -370,12 +359,11 @@
 	    {
 		"key": "360_spider",
 		"name": "360🐞",
-		"api": "csp_SP360",
+		"api": "csp_Dora",
 		"type": 3,
 		"filterable": 1,
 		"quickSearch": 1,
-		"searchable": 1,
-		"ext": ""
+		"searchable": 1,"ext":"9248c57eb22ace4a3431fbd1a979465f"
 	},
 {
     "key":"Dy555",
