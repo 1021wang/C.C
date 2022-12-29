@@ -298,16 +298,7 @@
 		"filterable": 1,
 		"ext": "https://ghproxy.com/https://raw.githubusercontent.com/1021wang/X.X/main/zxzj.json"
 	},                                            
-
-        {"key":"csp_XBiubiubiubiu_555",
-        "name":"555",
-        "type":3,
-        "api":"csp_XBiubiu",
-        "searchable":1,
-        "quickSearch":1,
-        "filterable":0,
-        "ext":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/X.X/main/555.json"},
-                                                            {
+                                                           {
 		"key": "csp_xpath_348z",
 		"name": "348",
 		"type": 3,
@@ -349,14 +340,6 @@
 		"ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/bttwoo.json",
 	    "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/top98.jar"
 	},    
-	
-		{"key":"dr_喵喵",
-		"name":"喵喵",
-		"type": 1,
-		"api":"http://cms.nokia.press/vod?rule=喵喵",
-		"searchable":1,
-		"quickSearch":1,
-		"filterable":1},
 		      
   {"key":"csp_XBiubiubiubiu_ysgc",
         "name":"工厂",
@@ -375,43 +358,6 @@
        "quickSearch":1,
        "filterable":1,
        "ext":"http://home.jundie.top:81/Cat/MaooXP/xiangdao.json"},
-       
-{
-		"key": "csp_biubiu_瓜皮TV",
-		"name": "瓜皮",
-		"type": 3,
-		"api": "csp_XBiubiu",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0,
-		"ext": "http://home.jundie.top:81/Cat/MaooXB/瓜皮TV.json"
-	},
-	{
-            "key": "csp_XBPQ极品影视",
-            "name": "极品",
-            "type":3,
-            "api":"csp_xBPQ",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/X.X/main/jiping.json"
-        },
-        
-	    {"key":"多多",
-	    "name":"多多",
-	    "type":1,
-	    "api":"https://www.ddzyz1.com/api.php/provide/vod/",
-	    "searchable":1,
-	    "quickSearch":1,
-	    "filterable":1,
-	    "categories":["国产剧","日韩剧","港台剧","欧美剧","综艺","动漫","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","剧情片" ]},
-	    
-		{"key" : "天天影视",
-		"name" : "天天",
-		"type" : 1,
-		"api" : "http://tttv.cf/api.php/provide/vod/",
-		"searchable" : 1,
-		"quickSearch" : 1 },  
 		                                      
 	    {"key":"csp_xpath_wnvod",
 	    "name": "万能",
@@ -421,14 +367,7 @@
 	    "quickSearch": 1,
 	    "filterable":1,
 	    "ext":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/X.X/main/wanneng.json"},                                                  
-	      {"key":"csp_XPath_bidiys",
-	      "name":"哔嘀",
-	      "type":3,
-	      "api":"csp_XPath",
-	      "searchable":1,
-	      "quickSearch":1,
-	      "filterable":1,
-	      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/X.X/main/bidi.json"},                    	                           
+	                   	                           
 	{"key":"csp_biubiu_奈菲影院",
 	"name":"奈菲",
 	"type":3,
@@ -472,17 +411,7 @@
        "quickSearch":1,
        "filterable":1,
        "ext":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/X.X/main/juhuang.json"},            
-                  
-	{
-            "key":"csp_biubiu_真不卡cerrd",
-            "name": "不卡",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/X.X/main/buka.json"},
-        
+                         
        {"key":"csp_xml___量子资源",
        "name":"量子",
        "type":1,
