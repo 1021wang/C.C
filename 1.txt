@@ -2,7 +2,7 @@
 {
 "spider":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/cs.jar",
 
-"wallpaper":"http://刚刚.live/图",
+"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 
 "lives":[
 {"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vMTAyMXdhbmcvQy5DL21haW4vdHYudHh0"]}]}],
@@ -18,17 +18,15 @@
       "quickSearch": 1,
       "filterable": 1,"ext":"8ee655f702d0d21f3643504783babbc3"
    	}, 
-{
-		"key": "csp_BBB",
-		"name": "哔哩🅱️",
-		"type": 3,
-		"api": "csp_Bili",
-		"searchable": 1,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "clan://网站/哔哩.json",
-	    "jar":"clan://jar/bili.jar"
-	}, 
+   	
+{    "key":"Bili",
+	"name":"哔哩🅱️",
+	"type":"3",
+	"api":"csp_Dora",
+	"searchable":"0",
+	"quickSearch":"1",
+	"filterable":"0","ext":"85b2986381a134ba3ebbaf25ae8138e7#https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"},
+
     	{   
             "key": "在线直播",
             "name": "直播🗺",
@@ -37,7 +35,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-	    "jar":"clan://jar/Sq.jar"
+	    "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/Sq.jar"
         }, 
         
   { "key":"Tbook",
@@ -249,9 +247,9 @@
 	"name":"LGBT🐞",
 	"type":3,
 	"api":"csp_Bttoo",
-	"searchable":1,
+	"searchable":0,
 	"quickSearch":1
-	,"filterable":1,
+	,"filterable":0,
 		"jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/1001.jar"
 	 },		
 	  	                    
