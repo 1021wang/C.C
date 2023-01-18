@@ -38,6 +38,8 @@
 	    "jar":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/Sq.jar"
         }, 
         
+        {"key":"AList🗂","name": "AList","type": "3","api":"csp_AList","searchable":"1","ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"},
+        
   { "key":"Tbook",
     "name":"听书网📜",
     "type":"3",
@@ -56,17 +58,7 @@
     "quickSearch":"1",
     "filterable":"1",
     "ext":"8e3aefcba838d8dc5102ac786719d837"},
-    
-        	{
-	     "key": "Smdyy",
-	     "name": "神马🐞",
-	     "type":3,
-	     "api": "csp_Dora",
-	     "searchable": 1,
-	     "quickSearch": 1,
-	     "filterable": 1,"ext":"16705ee9f4764be8499806f52d4bf1e7"
-	     },	
-	     
+            		     
 	     {   "key":"Lib",
     "name":"libvio🐞",
     "type":"3",
@@ -831,6 +823,8 @@
     {"name":"可遇不可求","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
     {"name":"bozrc","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":""}}},
     {"name":"rx2","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="}],
+    
+    
     "rules": [
   {"host":"*", "rule":["douyinvod.com", "/video/tos/cn/"]},
   
