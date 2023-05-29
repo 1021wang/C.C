@@ -1,6 +1,6 @@
 
 {
-"spider":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/cs.jar",
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/1021wang/jar/main/custom_spider.jar",
 
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 
